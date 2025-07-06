@@ -17,7 +17,7 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 ## Overview
 
 ### Screenshot
-![Mortgage Repayment Calculator Screenshot](.preview.png)
+![Mortgage Repayment Calculator Screenshot](preview.png)
 
 ### The challenge
 

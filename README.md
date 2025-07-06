@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Mortgage-calc](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Mortgage-calc](https://github.com/aditya-6655kh/Mortgage-calc/)
+- Live Site URL: [Live Mortgage-calc-site](https://aditya-6655kh.github.io/Mortgage-calc/)
 
 ## My process
 
